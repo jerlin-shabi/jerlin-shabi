@@ -7,8 +7,11 @@ web developer
 * 🌍  I'm based in colachal
 * ✉️  You can contact me at [jerlinshabi@gmail.com](mailto:jerlinshabi@gmail.com)
 * 🧠  I'm learning html, css, js
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jerlin-shabi&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ### Skills
+
 
 
 <p align="left">
