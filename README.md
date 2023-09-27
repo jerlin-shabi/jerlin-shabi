@@ -32,7 +32,7 @@ web developer
 <a href="http://www.github.com/jerlin-shabi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jerlin-shabi&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/jerlin-shabi"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jerlin-shabi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/bennyhinn18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bennyhinn18&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/bennyhinn18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerlin-shabi&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
