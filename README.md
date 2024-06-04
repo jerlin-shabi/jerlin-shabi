@@ -1,22 +1,29 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <div>
     <div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://github.com/jerlin-shabi/jerlin-shabi.github.io/blob/main/assets/img/favicon%20avator.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jerlinshabi+%F0%9F%91%8B;Computer+Science+Student;Front-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
+![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 web developer
 -------------
-* 🌍  I'm based in colachal
-* ✉️  You can contact me at [jerlinshabi@gmail.com](mailto:jerlinshabi@gmail.com)
-* 🧠  I'm learning javascript
+- A passionate Front-end developer
+- Currently learning javascript
+- Personal website [link](https://www.jerlin-shabi.github.io)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
  
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jerlin-shabi&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 450px></picture>
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=jerlin-shabi&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
 ### Skills
 
@@ -30,18 +37,33 @@ web developer
 ### Socials
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<p align="left"> <a href="https://www.github.com/jerlin-shabi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/js__shabi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/birunthaban-sarventhiran/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:sbirunthaban007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://medium.com/@sbirunthaban007"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<br>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/jerlin-shabi"><img src="https://github-readme-stats.vercel.app/api?username=jerlin-shabi&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jerlin-shabi's GitHub stats" /></a>
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=HridoyHazard&show_icons=true&count_private=true&theme=great-gatsby) </br>
 
-<a href="http://www.github.com/jerlin-shabi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jerlin-shabi&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p align="center">
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerlin-shabi&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp">
+</p>
 
-<a href="http://www.github.com/jerlin-shabi"><img src="https://github-readme-activity-graph.vercel.app/graph?username=jerlin-shabi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<a href="https://github.com/bennyhinn18" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerlin-shabi&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"  align="center" width = 650px>
 </div>
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=jerlin-shabi&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerlin-shabi&layout=compact&theme=gotham&langs_count=8"/>
+</div>
+
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
