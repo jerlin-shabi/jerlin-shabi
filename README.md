@@ -18,7 +18,7 @@
 <h3>- A passionate Front-end developer</h3>
 <h3>- Currently learning javascript</h3>
 <h3>- Personal website [link](https://www.jerlin-shabi.github.io)</h3>
-<h3>- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)</h3>
+
  
 
 <h1>🏆 GitHub Trophies</h1>
