@@ -70,7 +70,8 @@
 <h1>My GitHub Stats</h1>
 
 
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerlin-shabi&show_icons=true&count_private=true&theme=great-gatsby) </br>
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerlin-shabi&show_icons=true&count_private=true&theme=great-gatsby)
+<img align="right" width="25%" src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif"></br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
