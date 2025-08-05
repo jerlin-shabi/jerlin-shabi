@@ -24,7 +24,7 @@
 <h1>🏆 GitHub Trophies</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img  height="150px" src="https://github-profile-trophy.vercel.app/?username=jerlin-shabi&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
+<img  height="300px" src="https://github-profile-trophy.vercel.app/?username=jerlin-shabi&theme=monokai&no-frame=false&no-bg=false&margin-w=4">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
