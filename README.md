@@ -8,7 +8,7 @@
         <img src="https://github.com/jerlin-shabi/jerlin-shabi.github.io/blob/main/git-dp.png"  height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jerlinshabi+%F0%9F%91%8B;Computer+Science+Student;Front-End+Developer;Problem+Solver;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Jerlinshabi+%F0%9F%91%8B;Computer+Science+Student;software+Developer;Problem+Solver;" alt="Headline" />
     </div>
 
 
