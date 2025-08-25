@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3>- A passionate Front-end developer</h3>
 <h3>- Currently learning javascript</h3>
-<h3>- Personal website [link](https://www.jerlin-shabi.github.io)</h3>
+<h3>- Personal website https://jerlin-shabi.github.io/</h3>
 
  
 
